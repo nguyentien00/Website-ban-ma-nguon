@@ -1,6 +1,6 @@
 # ỦNG HỘ TÁC GIẢ:
 ||===================||
-||Ngân hàng: MBBANK  ||
+||Ngân hàng: MBBANK  |
 ||STK: 02002310200099||
 ||===================||
 -Tùy theo lòng hữu tâm.
